@@ -5,6 +5,8 @@ B) Moves files to the remote repository
 C) Stages changes for the next commit
 D) Commits changes directly
 Ans--C) Stages changes for the next commit
+Ans--C) Stages changes for the next commit
+
 --------------------
 2. Which command stages all modified and new files in the current directory?
 A) git add .
