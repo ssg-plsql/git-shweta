@@ -1,11 +1,11 @@
 Date:11 March 2025
 1. What does git add do?
-A) Deletes files from the repository
-B) Moves files to the remote repository
-C) Stages changes for the next commit
-D) Commits changes directly
-Ans--C) Stages changes for the next commit
-Ans--C) Stages changes for the next commit
+A) git add .
+B) git add -A
+C) git add --all
+D) All of the above
+Ans-A) git add .
+
 
 --------------------
 2. Which command stages all modified and new files in the current directory?
